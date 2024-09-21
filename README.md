@@ -5,6 +5,7 @@ _"To code, or not to code, that is the question."_
 
 ## 📜 A Note in Progress
 This repository evolves with my learning. It's shared as-is with joy and imperfections..
+[JavaMemoirs](https://dennym55.github.io/javamemoirs/) 🌐
 
 ### 🌍 Table of Contents
 
