@@ -35,7 +35,7 @@ This repository evolves with my learning. It's shared as-is with joy and imperfe
 
 #### 4. **Advanced OOP Concepts**
    - [Enums and Enum Types](#)
-   - [Record Classes](#)
+   - [Record Classes](docs/record-classes.md)
    - [Annotations](#)
    - [Static Methods, Fields, and Blocks](#)
    - [Final Keyword and Its Uses](#)
