@@ -159,9 +159,6 @@ This repository evolves with my learning. It's shared as-is with joy and imperfe
    - [Java Developer Roadmap](#)
    - [References and Resources (Books, Documentation, Online Courses)](#)
 
-### 🌐 Explore More
-
-For more Java insights, projects, and a peek into my coding journey, visit my [GitHub Page](#). The adventure continues!
 
 ### 🎭 Parting Words
 
