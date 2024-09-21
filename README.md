@@ -54,14 +54,38 @@ This repository evolves with my learning. It's shared as-is with joy and imperfe
 
 #### 6. **Collections Framework**
    - [Introduction to Collections](#)
-   - [List, Set, Map, and Queue Interfaces](#)
-   - [ArrayList, LinkedList, HashSet, TreeSet, HashMap, TreeMap, LinkedHashMap](#)
+   - [List Interface](#)
+     - ArrayList
+     - LinkedList
+     - Vector
+     - Stack
+   - [Set Interface](#)
+     - HashSet
+     - LinkedHashSet
+     - TreeSet
+   - [Map Interface](#)
+     - HashMap
+     - LinkedHashMap
+     - TreeMap
+     - Hashtable
+     - ConcurrentHashMap
+   - [Queue Interface](#)
+     - PriorityQueue
+     - [Deque](docs/deque.md)
+       - ArrayDeque
+       - LinkedList (as Deque)
+     - Blocking Queues
+       - ArrayBlockingQueue
+       - LinkedBlockingQueue
+       - PriorityBlockingQueue
+       - DelayQueue
    - [Iterators and Enhanced for-loop](#)
    - [Comparable vs Comparator](#)
    - [Concurrent Collections (ConcurrentHashMap, CopyOnWriteArrayList, etc.)](#)
    - [Streams API (Java 8+)](#)
    - [Navigable Collections](#)
    - [Collections Utility Class (Collections)](#)
+
 
 #### 7. **Generics**
    - [Introduction to Generics](#)
